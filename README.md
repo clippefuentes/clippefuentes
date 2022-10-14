@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/clippefuentes](https://github.com/clippefuentes), if you want to see my [resume](https://drive.google.com/file/d/1J1rDWOyNLkS_apMNqcqXUI63R8g8ojX2/view?usp=sharing)
 
-- 📫 How to reach me **clippefuentes@gmail.com**
+- 📫 How to reach me **clippefuentes@gmail.com** or **clyne.web3gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
