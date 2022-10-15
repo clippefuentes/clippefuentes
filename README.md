@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clippefuentes&label=Profile%20views&color=0e75b6&style=flat" alt="clippefuentes" /> </p>
 
-- 🔭 I’m currently working on [Game using Rust](Private)
+- 🔭 I’m currently working on [Game using Rust](Private), anything but Rust
 
 - 🌱 I’m currently learning **Rust, Bevy**
 
