@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Game using Rust](Private), anything but Rust
 
-- 🌱 I’m currently learning **Rust, Bevy**
+- 🌱 I’m currently learning **Rust, Bevy, Flutter, Unity, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clippefuentes](https://github.com/clippefuentes), if you want to see my [resume](https://drive.google.com/file/d/1J1rDWOyNLkS_apMNqcqXUI63R8g8ojX2/view?usp=sharing)
 
