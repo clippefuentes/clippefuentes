@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a game
 
-- 🌱 I’m currently learning **Flutter, Unity, C#, Unreal Engine and C++**, backlogging Rust, Bevy
+- 🌱 I’m currently learning **Rust**, backlogging Unity, C#, Unreal Engine and C++, Bevy
 
 - 👨‍💻 All of my projects are available at [https://github.com/clippefuentes](https://github.com/clippefuentes), if you want to see my [resume](https://drive.google.com/file/d/1J1rDWOyNLkS_apMNqcqXUI63R8g8ojX2/view?usp=sharing)
 
