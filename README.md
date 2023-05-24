@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clippefuentes&label=Profile%20views&color=0e75b6&style=flat" alt="clippefuentes" /> </p>
 
-- 🔭 I’m currently working on a game
+- 🎮 I’m currently planning on working on a game
 
 - 🌱 I’m currently learning **Rust**, backlogging Unity, C#, Unreal Engine and C++, Bevy
 
