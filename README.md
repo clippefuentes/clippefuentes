@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clippefuentes&label=Profile%20views&color=0e75b6&style=flat" alt="clippefuentes" /> </p>
 
-- 🎮 I’m currently planning on working on a game
-
-- 🌱 I’m currently learning **Rust**, backlogging Unity, C#, Unreal Engine and C++, Bevy
-
 - 👨‍💻 All of my projects are available at [https://github.com/clippefuentes](https://github.com/clippefuentes), if you want to see my [resume](https://drive.google.com/file/d/1J1rDWOyNLkS_apMNqcqXUI63R8g8ojX2/view?usp=sharing)
 
 - 📫 How to reach me **clippefuentes@gmail.com** or **clyne.web3@gmail.com**
