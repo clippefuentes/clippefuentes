@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Clyne Fuentes</h1>
-<h3 align="center">A person who likes to develop things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clippefuentes&label=Profile%20views&color=0e75b6&style=flat" alt="clippefuentes" /> </p>
 
